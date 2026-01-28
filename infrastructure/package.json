@@ -1,0 +1,14 @@
+{
+  "name": "hello-saas-infrastructure",
+  "version": "1.0.0",
+  "description": "AWS CDK infrastructure for Hello SaaS",
+  "main": "cdk-app.js",
+  "scripts": {
+    "cdk": "cdk"
+  },
+  "devDependencies": {
+    "aws-cdk": "^2.100.0",
+    "aws-cdk-lib": "^2.100.0",
+    "constructs": "^10.0.0"
+  }
+}
