@@ -2,6 +2,12 @@
 
 A serverless SaaS application built on AWS that displays multilingual greetings. Works seamlessly on web browsers, iPhone, and Android devices as a Progressive Web App (PWA).
 
+## 📱 Quick Start
+
+**Deploying from your iPhone?** → **[Click here for iPhone deployment guide](./DEPLOY_FROM_IPHONE.md)**
+
+**Have a computer?** → Continue reading below for full deployment options
+
 ## Features
 
 - **Multilingual Support**: Supports English, Spanish, French, German, Japanese, and Chinese
