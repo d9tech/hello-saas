@@ -43,7 +43,7 @@ npm start
 curl "http://localhost:3001/api/greeting?lang=en"
 curl "http://localhost:3001/api/greeting?lang=es"
 
-# All 7 supported language codes: en, es, fr, de, ja, zh, vi
+# All 8 supported language codes: en, es, fr, de, ja, zh, vi, ru
 ```
 
 ### Building for Deployment
@@ -133,6 +133,7 @@ Attributes:
 - `ja` → "こんにちは SaaS!" (Japanese)
 - `zh` → "你好 SaaS!" (Chinese)
 - `vi` → "Xin chào SaaS!" (Vietnamese)
+- `ru` → "Привет SaaS!" (Russian)
 
 ## Adding Languages
 

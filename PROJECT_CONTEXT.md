@@ -2,7 +2,7 @@
 
 ## Quick Summary
 
-This is **Hello SaaS** - a complete multilingual SaaS application built with AWS serverless architecture and a React Progressive Web App frontend. It displays "Hello SaaS!" in 7 different languages, with data stored in DynamoDB.
+This is **Hello SaaS** - a complete multilingual SaaS application built with AWS serverless architecture and a React Progressive Web App frontend. It displays "Hello SaaS!" in 8 different languages, with data stored in DynamoDB.
 
 ## What's Been Built
 
@@ -107,6 +107,7 @@ greeting (String)
 - `ja` → "こんにちは SaaS!"
 - `zh` → "你好 SaaS!"
 - `vi` → "Xin chào SaaS!"
+- `ru` → "Привет SaaS!"
 
 ## Current Status
 
