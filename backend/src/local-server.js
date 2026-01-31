@@ -11,7 +11,8 @@ const mockData = {
   fr: { languageCode: 'fr', languageName: 'French', greeting: 'Bonjour SaaS!' },
   de: { languageCode: 'de', languageName: 'German', greeting: 'Hallo SaaS!' },
   ja: { languageCode: 'ja', languageName: 'Japanese', greeting: 'こんにちは SaaS!' },
-  zh: { languageCode: 'zh', languageName: 'Chinese', greeting: '你好 SaaS!' }
+  zh: { languageCode: 'zh', languageName: 'Chinese', greeting: '你好 SaaS!' },
+  vi: { languageCode: 'vi', languageName: 'Vietnamese', greeting: 'Xin chào SaaS!' }
 };
 
 app.get('/api/greeting', (req, res) => {

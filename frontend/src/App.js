@@ -13,7 +13,8 @@ function App() {
     { code: 'fr', name: 'French' },
     { code: 'de', name: 'German' },
     { code: 'ja', name: 'Japanese' },
-    { code: 'zh', name: 'Chinese' }
+    { code: 'zh', name: 'Chinese' },
+    { code: 'vi', name: 'Vietnamese' }
   ];
 
   const handleShowMessage = async () => {

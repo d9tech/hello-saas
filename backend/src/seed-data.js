@@ -12,7 +12,8 @@ const greetings = [
   { languageCode: 'fr', languageName: 'French', greeting: 'Bonjour SaaS!' },
   { languageCode: 'de', languageName: 'German', greeting: 'Hallo SaaS!' },
   { languageCode: 'ja', languageName: 'Japanese', greeting: 'こんにちは SaaS!' },
-  { languageCode: 'zh', languageName: 'Chinese', greeting: '你好 SaaS!' }
+  { languageCode: 'zh', languageName: 'Chinese', greeting: '你好 SaaS!' },
+  { languageCode: 'vi', languageName: 'Vietnamese', greeting: 'Xin chào SaaS!' }
 ];
 
 async function seedData() {

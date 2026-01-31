@@ -10,7 +10,7 @@ A serverless SaaS application built on AWS that displays multilingual greetings.
 
 ## Features
 
-- **Multilingual Support**: Supports English, Spanish, French, German, Japanese, and Chinese
+- **Multilingual Support**: Supports English, Spanish, French, German, Japanese, Chinese, and Vietnamese
 - **Progressive Web App**: Installable on iPhone and Android home screens
 - **Serverless Architecture**: Built with AWS Lambda, API Gateway, and DynamoDB
 - **Responsive Design**: Beautiful UI that works on all devices
@@ -207,6 +207,7 @@ The app will open at http://localhost:3000
 - `de` - German: "Hallo SaaS!"
 - `ja` - Japanese: "こんにちは SaaS!"
 - `zh` - Chinese: "你好 SaaS!"
+- `vi` - Vietnamese: "Xin chào SaaS!"
 
 ## API Endpoints
 
