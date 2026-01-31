@@ -9,7 +9,7 @@ echo "📦 Installing backend dependencies..."
 npm install
 
 echo "🖥️  Starting backend server on http://localhost:3001..."
-node src/local-server.js &
+npm run dev &
 BACKEND_PID=$!
 
 cd ../frontend

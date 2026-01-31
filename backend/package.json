@@ -4,6 +4,8 @@
   "description": "Backend API for Hello SaaS multilingual app",
   "main": "src/index.js",
   "scripts": {
+    "start": "node src/local-server.js",
+    "dev": "nodemon src/local-server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
@@ -12,6 +14,7 @@
   },
   "devDependencies": {
     "express": "^4.18.2",
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "nodemon": "^3.0.2"
   }
 }
